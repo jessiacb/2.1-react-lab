@@ -7,7 +7,7 @@ function Content(props) {
 }
 
 function Footer() {
-  return (<h1>Created by Me, of course.</h1>);
+  return (<h1>Created by jess!.</h1>);
 }
 
 function App() {
